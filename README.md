@@ -2,7 +2,7 @@ local library = loadstring(game:HttpGet(('https://raw.githubusercontent.com/bloo
 
 local x = library:CreateWindow("Hack")
 
-local b = x.library.CreateFolder("Local-Player")
+local b = w.library.CreateFolder("Local-Player")
 
 b:DestroyGui()
 
